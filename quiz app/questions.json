@@ -1,0 +1,63 @@
+[
+    {
+      "id": "6612c635e323adc2de23742d",
+      "question": "What does npm stand for?",
+      "options": ["Node Package Manager", "Node Programming Module", "Node Process Manager", "None of the above"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "6612c635e323adc2de23742e",
+      "question": "Which function is used to include modules in Node.js?",
+      "options": ["require()", "import()", "use()", "attach()"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "6612c635e323adc2de23742f",
+      "question": "Which of the following is a core module in Node.js?",
+      "options": ["fs", "express", "request", "http"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": "6612c635e323adc2de237430",
+      "question": "What is the default event loop implementation in Node.js?",
+      "options": ["libuv", "libevent", "uvloop", "None of the above"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "6612c635e323adc2de237431",
+      "question": "Which of the following is an asynchronous function in Node.js?",
+      "options": ["fs.readFileSync()", "fs.writeFile()", "fs.existsSync()", "fs.statSync()"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "6612c635e323adc2de237432",
+      "question": "What is a callback function in Node.js?",
+      "options": ["A function passed as an argument to another function, to be invoked later", "A function that returns a promise", "A function that executes immediately", "None of the above"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "6612c635e323adc2de237433",
+      "question": "What is the purpose of the `require` function in Node.js?",
+      "options": ["To include modules", "To define variables", "To create objects", "To execute code"],
+      "correctOptionIndex": 1
+    },
+    {
+      "id": "6612c635e323adc2de237434",
+      "question": "Which of the following is NOT a valid way to handle errors in Node.js?",
+      "options": ["try...catch block", "callback functions", "event emitters", "global error object"],
+      "correctOptionIndex": 3
+    },
+    {
+      "id": "6612c635e323adc2de237435",
+      "question": "What is the purpose of the `process` global object in Node.js?",
+      "options": ["To provide information about the current Node.js process", "To handle HTTP requests", "To manage file system operations", "To interact with the DOM"],
+      "correctOptionIndex": 0
+    },
+    {
+      "id": "6612c635e323adc2de237436",
+      "question": "What is the purpose of the `npm init` command?",
+      "options": ["To initialize a new Node.js project", "To install a package globally", "To update Node.js to the latest version", "To uninstall a package"],
+      "correctOptionIndex": 0
+    }
+  ]
+  
